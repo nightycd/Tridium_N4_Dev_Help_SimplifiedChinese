@@ -1,0 +1,2 @@
+# Tridium_N4_Dev_Help_SimplifiedChinese
+这个项目是关于Tridium公司的N4的开发工作的一些帮助文章，觉得有用请给颗星星
